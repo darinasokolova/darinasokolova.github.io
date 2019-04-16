@@ -1,2 +1,2 @@
 # js-school
-# [Demo](https://darinasokolova.github.io/test-pdffiller)
+# [Demo](https://darinasokolova.github.io/pdffiller-test/)
